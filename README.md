@@ -4,7 +4,7 @@
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/SamirMoustafa/Dog-Breed-Classifier.git
+git clone https://github.com/SamirMoustafa/Dog_Type_Detector_using_CNN.git
 cd dog-project
 ```
 
